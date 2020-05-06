@@ -1,1 +1,1 @@
-# covid-fighter-game
+# Covid-fighter-game
